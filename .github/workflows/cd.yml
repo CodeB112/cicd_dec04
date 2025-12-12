@@ -1,4 +1,4 @@
-name: CD - Deploy Coverage Report
+name: CD
 
 on:
   push:
